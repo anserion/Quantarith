@@ -1,2 +1,2 @@
 # Quantarith
-simple aritmometer based on Toffoli quantum gate (truth table simulation)
+simple arithmometer based on Toffoli quantum gate (truth table simulation)
